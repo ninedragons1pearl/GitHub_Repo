@@ -1,0 +1,59 @@
+@charset "utf-8";
+/* CSS Document
+Blackboard user name: cwpowell3 (Carlie Powell)
+Date: 10/23/2019
+File: sample.css
+Purpose: Project 1 Vicious Cycle Webpage
+*/
+body 	{ background: gray }
+
+.TopImage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+h1 	{	
+	font-family: Arial, Helvetica, Sans-serif; 
+	font-size:28pt; 
+	text-align: center;
+    color:black; 
+	font-weight:bold; 
+}
+
+section {
+	clear: both;
+}
+
+h2 	{	font-family: Arial, Helvetica, Sans-serif; font-size:12pt;
+    color:black; font-weight:bold; }
+
+p	{	font-family: Arial, Helvetica, Sans-serif; font-size:10pt;
+    color:black; }
+
+p.alert	{ 	font-style: italic; color:black;}
+
+table	{ 	font-family: Arial, Helvetica, Sans-serif; font-size:10pt;
+    color:black; }
+
+td.center {	
+	text-align:center;
+}
+.thumbLeft {
+	float: left;
+  	width: 17%;
+  	padding: 10px;
+}
+
+.logo {
+	align-content: center;
+	padding-left: 25px;
+	padding-right: 25px;
+}
+
+.thumbRight {
+	float: right;
+  	width: 17%;
+  	padding: 10px;
+}
